@@ -1,5 +1,7 @@
 # Welcome to Remix!
 
+Api Naruto All-Characters = Method GET https://narutodb.xyz/api/character
+
 - 📖 [Remix docs](https://remix.run/docs)
 
 ## Development
